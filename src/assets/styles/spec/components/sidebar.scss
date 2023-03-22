@@ -13,7 +13,7 @@
 // ---------------------------------------------------------
 
 .sidebar {
-  background-color: $default-white;
+  background-color: $default-primary;
   bottom: 0;
   overflow: hidden;
   position: fixed;
@@ -219,7 +219,7 @@
 
       &.open {
         > a {
-          color: $default-dark;
+          color: $up-maroon-text;
 
           .icon-holder {
             color: $default-info;
@@ -245,12 +245,12 @@
     }
 
     a {
-      color: $default-text-color;
+      color: $up-maroon-text;
       transition: all 0.3s ease;
 
       &:hover,
       &:focus {
-        color: $default-dark;
+        color: $default-white;
         text-decoration: none;
 
         .icon-holder {
@@ -282,13 +282,13 @@
               &:hover,
               &:focus {
                 background-color: transparent;
-                color: $default-dark;
+                color: $default-white;
               }
             }
 
             &.actived {
               a {
-                color: $default-dark;
+                color: $default-white;
               }
             }
           }
