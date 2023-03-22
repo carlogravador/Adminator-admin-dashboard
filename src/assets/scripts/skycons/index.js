@@ -3,7 +3,7 @@ import SkyconsInit from 'skycons';
 const Skycons = SkyconsInit(window);
 
 export default (function () {
-  const icons = new Skycons({ 'color': '#ff6849' });
+  const icons = new Skycons({ 'color': '#822238' });
   const list  = [
     'clear-day',
     'clear-night',

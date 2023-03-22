@@ -1,4 +1,7 @@
 const COLORS = {
+  'up-maroon'             : '#822238',
+  'up-yellow'             : '#f4bb47',
+  'up-green'              : '#358665',
   'white'                 : '#ffffff',
   'red-50'                : '#ffebee',
   'red-100'               : '#ffcdd2',

@@ -30,10 +30,10 @@ export default (function () {
         borderColor: '#fff',
         borderOpacity: 0.25,
         borderWidth: 0,
-        color: '#e6e6e6',
+        color: '#525252',
         regionStyle : {
           initial : {
-            fill : '#e4ecef',
+            fill : '#efe4e7',
           },
         },
 
@@ -73,7 +73,7 @@ export default (function () {
               'IN': 200,
               'GB': 120,
             },
-            scale: ['#03a9f3', '#02a7f1'],
+            scale: ['#822247', '#822238'],
             normalizeFunction: 'polynomial',
           }],
         },

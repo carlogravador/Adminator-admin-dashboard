@@ -16,7 +16,7 @@ export default (function () {
         barWidth: '3',
         resize: true,
         barSpacing: '3',
-        barColor: '#4caf50',
+        barColor: '#822238',
       });
     }
 
@@ -27,7 +27,7 @@ export default (function () {
         barWidth: '3',
         resize: true,
         barSpacing: '3',
-        barColor: '#9675ce',
+        barColor: '#358665',
       });
     }
 
@@ -38,7 +38,7 @@ export default (function () {
         barWidth: '3',
         resize: true,
         barSpacing: '3',
-        barColor: '#03a9f3',
+        barColor: '#f4bb47',
       });
     }
 
